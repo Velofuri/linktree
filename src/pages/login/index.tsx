@@ -23,7 +23,7 @@ export function Login() {
     <div className='flex flex-col w-full h-screen items-center justify-center'>
       <Link to='/'>
         <h1 className='mt-11 mb-7 text-white font-bold text-5xl'>
-          Dev
+          Velo
           <span className='bg-gradient-to-r from-yellow-500 to-orange-400 bg-clip-text text-transparent'>
             Link
           </span>
